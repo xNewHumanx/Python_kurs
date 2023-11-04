@@ -5,7 +5,7 @@ git clone ....
 #search status git repo
 git status
 #add file to git step one
-git add <name file>
+git add -a -m "name file"
 #add file to git step two
 git commit <your commit>
 #add file to git step three
