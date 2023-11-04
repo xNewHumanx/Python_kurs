@@ -7,7 +7,7 @@ git status
 #add file to git step one
 git add <name file>
 #add file to git step two
-git commint <your commit>
+git commit <your commit>
 #add file to git step three
 git push
 #download repo refresh
