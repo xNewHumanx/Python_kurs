@@ -1,0 +1,16 @@
+#you must be in folder repo
+
+#download git repo
+git clone ....
+#search status git repo
+git status
+#add file to git step one
+git add <name file>
+#add file to git step two
+git commint <your commit>
+#add file to git step three
+git push
+#download repo refresh
+git pull
+#add all new file
+git add -A
